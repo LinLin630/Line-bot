@@ -7,5 +7,4 @@
 
 藥物濫用防制Line機器人
 
-
-![IMG_B7D223582602-1](https://user-images.githubusercontent.com/55676231/216139838-4158d218-bcba-4134-89d0-222055ec6206.jpeg)
+<img src="https://user-images.githubusercontent.com/55676231/216139838-4158d218-bcba-4134-89d0-222055ec6206.jpeg" alt="Cover" width="30%"/>
